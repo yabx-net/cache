@@ -1,7 +1,7 @@
 {
   "name": "yabx/cache",
-  "description": "Simple cache implementation",
-  "version": "0.0.1",
+  "description": "Simple Cache Implementation",
+  "version": "0.0.2",
   "type": "library",
   "license": "MIT",
   "minimum-stability": "stable",
@@ -17,6 +17,7 @@
     }
   ],
   "require": {
+    "php": "^8.0",
     "ext-redis": "*"
   }
 }
